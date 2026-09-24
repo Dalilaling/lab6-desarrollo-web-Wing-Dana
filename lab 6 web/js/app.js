@@ -1,1 +1,0 @@
-console.log("Estación Meteorológica activada - Dana Wing");
